@@ -23,7 +23,7 @@ In order for this project to work you must:
 * Ensure macros are enabled on your excel workbook
 * Ensure the developer tab is added to your toolbar
 * Paste the code from VBA-Challenge-Code.vb into a new Module in Visual Basic
-* Execute code
+* Execute the processSheets() Subroutine
 
 <a name="files"></a>
 ### Files
