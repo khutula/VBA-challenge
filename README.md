@@ -4,6 +4,7 @@
 1. [Introduction](#introduction)
 2. [Technologies](#technologies)
 3. [Launch](#launch)
+4. [Files](#files)
 
 <a name="introduction"></a>
 ### Introduction
@@ -22,3 +23,9 @@ In order for this project to work you must:
 * Ensure the developer tab is added to your toolbar
 * Paste the code from ____ into a new Module in Visual Basic
 * Execute code
+
+<a name="files"></a>
+### Files
+* alphabetical_testing.xlsm: test file used to develop the code
+* Multiple_year_stock_data.xlsm: full data file used to generate final homework report
+* .vbs: file containing the VBA script used to obtain final homework report 
