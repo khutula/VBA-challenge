@@ -5,6 +5,7 @@
 2. [Technologies](#technologies)
 3. [Launch](#launch)
 4. [Files](#files)
+5. [Example Results](#example-results)
 
 <a name="introduction"></a>
 ### Introduction
@@ -30,3 +31,10 @@ In order for this project to work you must:
 * [alphabetical_testing.xlsm](alphabetical_testing.xlsm): test file used to develop the code
 * [Multiple_year_stock_data.xlsm](Multiple_year_stock_data.xlsm): full data file used to generate final homework report
 * [VBA-Challenge-Code.vb](VBA-Challenge-Code.vb): file containing the VBA script used to obtain final homework report 
+
+<a name="example-results"></a>
+### Results
+Below are screenshots of the results for each year
+* [2016_Stock_Summary_Screenshot.PNG](2016_Stock_Summary_Screenshot.PNG): screenshot of 2016 summary data for final report
+* [2015_Stock_Summary_Screenshot.PNG](2015_Stock_Summary_Screenshot.PNG): screenshot of 2015 summary data for final report
+* [2014_Stock_Summary_Screenshot.PNG](2014_Stock_Summary_Screenshot.PNG): screenshot of 2014 summary data for final report
