@@ -19,13 +19,14 @@ This project uses:
 ### Launch
 In order for this project to work you must:
 * Ensure your workbook is saved as a file compatible with macros (.xlsm)
+* Ensure your data is in the same order and format as provided in columns A-G of the .xlsm files
 * Ensure macros are enabled on your excel workbook
 * Ensure the developer tab is added to your toolbar
-* Paste the code from ____ into a new Module in Visual Basic
+* Paste the code from VBA-Challenge-Code.vb into a new Module in Visual Basic
 * Execute code
 
 <a name="files"></a>
 ### Files
-* alphabetical_testing.xlsm: test file used to develop the code
-* Multiple_year_stock_data.xlsm: full data file used to generate final homework report
-* .vbs: file containing the VBA script used to obtain final homework report 
+* [alphabetical_testing.xlsm](alphabetical_testing.xlsm): test file used to develop the code
+* [Multiple_year_stock_data.xlsm](Multiple_year_stock_data.xlsm): full data file used to generate final homework report
+* [VBA-Challenge-Code.vb](VBA-Challenge-Code.vb): file containing the VBA script used to obtain final homework report 
