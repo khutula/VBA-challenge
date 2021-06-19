@@ -35,6 +35,11 @@ In order for this project to work you must:
 <a name="example-results"></a>
 ### Results
 Below are screenshots of the results for each year
-* [2016_Stock_Summary_Screenshot.PNG](2016_Stock_Summary_Screenshot.PNG): screenshot of 2016 summary data for final report
-* [2015_Stock_Summary_Screenshot.PNG](2015_Stock_Summary_Screenshot.PNG): screenshot of 2015 summary data for final report
-* [2014_Stock_Summary_Screenshot.PNG](2014_Stock_Summary_Screenshot.PNG): screenshot of 2014 summary data for final report
+#### 2016 Summary Screenshot
+![2016_Stock_Summary](2016_Stock_Summary_Screenshot.PNG)
+
+#### 2015 Summary Screenshot
+![2015_Stock_Summary](2015_Stock_Summary_Screenshot.PNG)
+
+#### 2014 Summary Screenshot
+![2014_Stock_Summary](2014_Stock_Summary_Screenshot.PNG)
