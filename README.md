@@ -30,7 +30,7 @@ In order for this project to work you must:
 ### Files
 * [alphabetical_testing.xlsm](alphabetical_testing.xlsm): test file used to develop the code
 * [Multiple_year_stock_data.xlsm](Multiple_year_stock_data.xlsm): full data file used to generate final homework report
-* [VBA-Challenge-Code.vb](VBA-Challenge-Code.vb): file containing the VBA script used to obtain final homework report 
+* [VBA-Challenge-Code.bas](VBA-Challenge-Code.bas): file containing the VBA script used to obtain final homework report 
 
 <a name="results"></a>
 ### Results
