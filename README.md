@@ -2,14 +2,30 @@
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Technologies](#technologies)
-3. [Launch](#launch)
-4. [Files](#files)
-5. [Results](#results)
+2. [Objectives](#objectives)
+3. [Technologies](#technologies)
+4. [Launch](#launch)
+5. [Files](#files)
+6. [Results](#results)
 
 <a name="introduction"></a>
 ### Introduction
-The purpose of this homework assignment was to create a VBA code to analyze and summarize multiple years of stock data. For each year, each Ticker symbol is summmarized by Yearly Change, Percent Change, and Total Stock Volume. Additionally, Greatest Percent Increase, Greatest Percent Decrease, and Greatest Total Volume for each year are provided with the Ticker Symbol and Value.
+The purpose of this homework assignment was to create a VBA code to analyze and summarize multiple years of stock data. 
+
+For each year, each Ticker symbol is summmarized by Yearly Change, Percent Change, and Total Stock Volume. Additionally, Greatest Percent Increase, Greatest Percent Decrease, and Greatest Total Volume for each year are provided with the Ticker Symbol and Value.
+
+<a name="objectives"></a>
+### Objectives
+Write a VBA code that:
+1. Summarizes each year of stock data by Ticker Symbol with
+    * Yearly Change - highlighted to show positive and negative
+    * Percent Change
+    * Total Stock Volumn
+2. Summarizes each year of stock data as a whole with
+    * Ticker Symbol & Value of Greatest Percent Increase
+    * Ticker Symbol & Value of Greatest Percent Decrease
+    * Ticker Symbol & Value of Greatest Total Volume
+3. Cycles through all sheets (years) in only one code execution
 
 <a name="technologies"></a>
 ### Technologies
