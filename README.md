@@ -12,8 +12,6 @@
 ### Introduction
 The purpose of this homework assignment was to create a VBA code to analyze and summarize multiple years of stock data. 
 
-For each year, each Ticker symbol is summmarized by Yearly Change, Percent Change, and Total Stock Volume. Additionally, Greatest Percent Increase, Greatest Percent Decrease, and Greatest Total Volume for each year are provided with the Ticker Symbol and Value.
-
 <a name="objectives"></a>
 ### Objectives
 Write a VBA code that:
